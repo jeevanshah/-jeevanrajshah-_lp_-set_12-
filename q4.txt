@@ -1,0 +1,22 @@
+As client want to startup a custom designed/printed T-shirt company so let’s assume he first wants his own website.
+As he would be hiring me as a consultant/PM i would suggest Scrum Methodology of development.
+Roles:
+Product owner
+Scrum Master (consultant/PM)
+Developers
+Testers
+Customers
+
+As a scrum master i will be acting as managers who monitors all the progress, make sure that each and every tools are collected and provided. I will be the one conducting meetings, productive talks and make sure that wwe are on right direction to meet our release plan.
+
+Steps:
+1:> We would be collecting all the features that our customer, end users, team member, executive etc. want on the product with their benefits. We will be creating a product backlog collection of all the wish list from everyone.
+2:>After collecting all the list a release backlog is to be prepared so by consulting to all the members a release backlog is selected from product backlog. Each and every task are prioritized.
+3:>Each works are divided into small manageable chunks of work so we have rough vision and estimation.
+4:>So we can now make a milestone of our product development defined as sprints.
+   Each sprint has its own release backlog and milestone to achieve.
+5:>To make sure that we are heading on right direction I as a scrum master will be responsible for monitoring the progress by holding a progressive/tactical meetings as well as by monitoring the work completions on daily basis. 
+6:>At the end of a each sprint review is done and possibly monitor the any area of improvement if any or rejected if not met the target.
+7:>All the sprints are completed according to the plan and final software is shipped.
+As it is e-commerce site so there are many features and ideas as well as our main concern is customer satisfaction so by prioritizing the task we can develop a agile and working product that include all what we want.
+8:>As per the software development process all the testing/maintenance/upgrades/documentations will be done accordingly.

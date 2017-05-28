@@ -1,0 +1,25 @@
+public class TNumberMain {
+    public static void main(String[] args) {
+        TNumber tNumber=new TNumber();
+        System.out.println("Value of first triangle number with 500 divisor is "+tNumber.generate());
+    }}
+public class TNumber {
+    static long i=0;
+    public Long generate() {
+        while (divisorCheck((i*(i+1)/2))<=500) {
+        i++;
+        }
+return ((i*(i+1)/2));
+    }
+    public int divisorCheck(Long n)
+    {
+        int count=1;
+        int divisor = 0;
+        while (count*count<n) {
+            if ( n % count == 0 ) {
+                divisor += 2;
+            }
+            count++;
+        }
+        return divisor;
+}}

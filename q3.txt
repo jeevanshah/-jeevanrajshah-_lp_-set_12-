@@ -1,0 +1,11 @@
+          Qality Assurance                 |      Quality Control
+1: Quality Assurance makes sure that       | 1: Quality Control makes sure that end  
+everything is on track and being done in        product is what you expected.
+right way.
+
+Taking an example of car manifacturing company:
+Before any manifacturing process each and every component of car is modeled as well as designed and vision of end product is made.
+Quality assurance makes sure that process of car manifacturing is on track.Each and every staff are doing their individual function properly.Qality assurance makes sure that there are no defect while manifacturing and assembling the car.Design pattern audits are used for quality assurance.
+
+Qality Control main job is to make sure that finalized car is the car that was visioned.
+Each and every component of car are tested if they are working or not.For eg: engine test,lighting test,brakes etc.Qality Control will try to find defect if there are any by different measures of testing.Cars are driven on a track before releasing thats the job of quality control. 
